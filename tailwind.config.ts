@@ -57,6 +57,20 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        manpower: {
+          blue: "hsl(var(--manpower-blue))",
+          lightBlue: "hsl(var(--manpower-light-blue))",
+          green: "hsl(var(--manpower-green))",
+          red: "hsl(var(--manpower-red))",
+          orange: "hsl(var(--manpower-orange))",
+        },
+      },
+      fontFamily: {
+        heading: ["var(--font-heading)"],
+        body: ["var(--font-body)"],
+      },
+      backdropBlur: {
+        '20': '20px',
       },
       borderRadius: {
         lg: "var(--radius)",
