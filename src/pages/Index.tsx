@@ -60,7 +60,7 @@ const Index = () => {
               
               <p className="flex items-start gap-3 text-base leading-relaxed">
                 <span className="text-xl flex-shrink-0 mt-0.5">💬</span>
-                <span>Напишіть менеджеру прямо зараз — та отримайте консультацію</span>
+                <span>Натисніть кнопку та залиште заявку прямо зараз</span>
               </p>
             </div>
 
